@@ -1,1 +1,2 @@
-firsttest
+#!/bin/bash
+/pwd
